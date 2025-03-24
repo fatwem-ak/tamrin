@@ -38,7 +38,7 @@ On Linux/macOS:
 
 
 
-How to Play
+## How to Play
 
  1. After running the program, you will see different menu options:
  • 0: Create a new player
@@ -53,4 +53,4 @@ How to Play
  • 2: Medium (3 minutes)
  • 3: Hard (2 minutes)
 
-Enjoy playing Sudoku!
+## Enjoy playing Sudoku!
