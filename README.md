@@ -1,7 +1,7 @@
 
 # Sudoku Game in C++  
 A console-based Sudoku game with multiple features such as difficulty selection, game saving/loading, player management, and score tracking.
-![first look]("C:\Users\F\Pictures\Screenshots\Screenshot 2025-03-24 132207.png")
+![first look](https://github.com/fatwem-ak/tamrin/blob/master/Screenshot%202025-03-24%20132207.png?raw=true)
 ---
 
 ## Features
