@@ -20,21 +20,17 @@ To run this program, you need a C++ compiler such as g++ (MinGW or any other too
 ---
 
 # How to Run
-## 1. Compile the code:  
+ 1. Compile the code:  
    On Windows (MinGW):
-   ```bash
    g++ sudoku.cpp -o sudoku.exe
    On Linux/macOS:
-   ```bash
    g++ sudoku.cpp -o sudoku
 
  2. Run the program:
 On Windows:
-```bash
 sudoku.exe
 
 On Linux/macOS:
-```bash
 ./sudoku
 
 
@@ -54,4 +50,4 @@ On Linux/macOS:
  • 2: Medium (3 minutes)
  • 3: Hard (2 minutes)
 
-** ** Enjoy playing Sudoku!
+**Enjoy playing Sudoku!**
