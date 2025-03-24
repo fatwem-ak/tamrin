@@ -25,16 +25,16 @@ To run this program, you need a C++ compiler such as g++ (MinGW or any other too
    ```bash
    g++ sudoku.cpp -o sudoku.exe
 On Linux/macOS:
-
+```bash
 g++ sudoku.cpp -o sudoku
 
  2. Run the program:
 On Windows:
-
+```bash
 sudoku.exe
 
 On Linux/macOS:
-
+```bash
 ./sudoku
 
 
