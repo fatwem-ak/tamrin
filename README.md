@@ -38,6 +38,7 @@ Follow these steps to compile and run the Sudoku game:
 
 ### How to Play  
 After launching the program, you will see a menu with the following options:  
+![secondpic](https://raw.githubusercontent.com/fatwem-ak/tamrin/a49871f01dc40c593d0bed71c9e222b84544ab05/Screenshot%202025-03-24%20134507.png)
 
 #### Main Menu Options  
 - 0 → Create a new player  
