@@ -19,35 +19,41 @@ To run this program, you need a C++ compiler such as g++ (MinGW or any other too
 
 ---
 
-# How to Run
- 1. Compile the code:  
-   On Windows (MinGW):
-   g++ sudoku.cpp -o sudoku.exe
-   On Linux/macOS:
-   g++ sudoku.cpp -o sudoku
+### How to Run  
+Follow these steps to compile and run the Sudoku game:  
 
- 2. Run the program:
-On Windows:
-sudoku.exe
+1. Compile the code:  
+   - On Windows (MinGW):  
+         g++ sudoku.cpp -o sudoku.exe
+        - On Linux/macOS:  
+         g++ sudoku.cpp -o sudoku
+     
+2. Run the program:  
+   - On Windows:  
+         sudoku.exe
+        - On Linux/macOS:  
+         ./sudoku
+     
+---
 
-On Linux/macOS:
-./sudoku
+### How to Play  
+After launching the program, you will see a menu with the following options:  
 
+#### Main Menu Options  
+- 0 → Create a new player  
+- 1 → Start the game  
+- 2 → View Sudoku solution  
+- 3 → Exit the game  
+- 4 → Load a saved game  
+- 5 → View player scores  
+- 6 → Change player  
 
+#### Selecting Difficulty  
+When starting a new game, choose the difficulty level:  
+- 1 → Easy (5 minutes)  
+- 2 → Medium (3 minutes)  
+- 3 → Hard (2 minutes)  
 
-## How to Play
+---
 
- 1. After running the program, you will see different menu options:
- • 0: Create a new player
- • 1: Start the game
- • 2: View Sudoku solution
- • 3: Exit the game
- • 4: Load a saved game
- • 5: View player scores
- • 6: Change player
- 2. When starting a new game, select the difficulty level:
- • 1: Easy (5 minutes)
- • 2: Medium (3 minutes)
- • 3: Hard (2 minutes)
-
-**Enjoy playing Sudoku!**
+Enjoy playing Sudoku! 🎉
